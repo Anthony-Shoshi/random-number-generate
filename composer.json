@@ -1,0 +1,19 @@
+{
+    "name": "anthony/random-number-generate",
+    "description": "This package generates random integer number.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anthony\\RandomNumberGenerate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anthony-Shoshi",
+            "email": "anthonyshoshigomes1996@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
