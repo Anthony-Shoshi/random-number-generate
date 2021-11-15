@@ -1,5 +1,5 @@
 {
-    "name": "anthony/random-number-generate",
+    "name": "anthony-shoshi/random-number-generate",
     "description": "This package generates random integer number.",
     "type": "library",
     "license": "MIT",
